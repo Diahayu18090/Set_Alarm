@@ -4,4 +4,4 @@ Aplikasi Alarm
 ---
 
 ### Storyboard
-<img src="">
+<img src="https://github.com/Diahayu18090/Set_Alarm/blob/main/Storyboard/Storyboard.png">
